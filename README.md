@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on EXPRESS AND NODE.JS
+
 - 🌱 I’m currently learning EXPRESS AND NODE.JS
 - 👯 I’m looking to collaborate on WEB DEVELOPMENT
 - 🤔 I’m looking for help with MAYBE DEVELOPMENT STUFFS
