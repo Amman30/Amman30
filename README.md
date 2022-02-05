@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning REACT AS WELL AS  NODE.JS
+- 🌱 I’m currently learning REACT 
 - 👯 I’m looking to collaborate on WEB DEVELOPMENT
 - 🤔 I’m looking for help with MAYBE DEVELOPMENT STUFFS
 - 💬 Ask me about ANYTHING 🤣
