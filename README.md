@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amman30" alt="amman30" /></a> </p>
 
-- 🔭 I’m currently Working on Web Development [The Scipture](https://amman30.github.io/Quran-App/)
+- 🔭 I’m currently Working on Web Development [The Scipture](https://quran-appp.herokuapp.com/)
 
 - 🌱 I’m currently learning **ReactJS and Machine Learning**
 
