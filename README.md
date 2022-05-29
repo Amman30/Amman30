@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Working on Web Development [The Scipture](https://quran-appp.herokuapp.com/)
 
-- 🌱 I’m currently learning **ReactJS and Machine Learning**
+- 🌱 I’m currently learning **NodeJS,Machine Learning along with Some basics of Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amman30](https://github.com/Amman30)
 
