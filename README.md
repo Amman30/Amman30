@@ -1,5 +1,5 @@
 <h1 align="center">Good to see you!!!! 👋, I am Mohammad Amman</h1>
-<h2 align="center">Computer Science Undergrad. from <h1>Kashmir</h1></h2>
+<h2 align="center">Computer Science Undergrad. from Kashmir</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amman30&label=Profile%20views&color=0e75b6&style=flat" alt="amman30" /> </p>
 
