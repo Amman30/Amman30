@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amman30&label=Profile%20views&color=0e75b6&style=flat" alt="amman30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amman30" alt="amman30" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amman30" alt="amman30" /></a> </p>
 
 - 🔭 I’m currently Working on Web Development [The Scipture](http://quran-appp.herokuapp.com/)
 
