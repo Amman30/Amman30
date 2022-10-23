@@ -1,4 +1,5 @@
-SUP PEOPLE!!!          
+                                                         👋 HELLO PEOPLE!!!
+                                                         <br>
 🔭 I’m currently Working as an INTERN at IIT-BOMBAY (Software Development using QT)<br><br>🌱 I’m currently learning App Development and Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/Amman30<br><br>📫 How to reach me mhdammman@gmail.com
 
 
